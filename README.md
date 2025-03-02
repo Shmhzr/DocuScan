@@ -1,34 +1,21 @@
-# Document Scanner
+Docuscan
 
+Overview
 
-[![Watch Video](https://github.com/murtazahassan/Document-Scanner/blob/master/Documnet%20Scanner.jpg)](https://youtu.be/ON_JubFRw8M)
+Docuscan is a powerful and intuitive document scanning application that allows users to scan, process, and manage documents efficiently. With features like OCR (Optical Character Recognition), image enhancement, and export options, Docuscan makes digitizing paperwork seamless and convenient.
 
-In this video we are going to create a simple document scanner using opencv. We will  learn how to run this in real time and how we can save these images by pressing just a button on the keyboard. This Is perfect project for beginners as it is simple and covers the core principals of opencv. 
+Features
 
-Subscribe its FREE !!! 😂😂😂
+Document Scanning: Capture documents using the device camera or import from the gallery.
 
-Product Links:
+OCR (Optical Character Recognition): Extract text from scanned documents for easy editing and searching.
 
-Recommend Webcam for Computer Vision:
+Image Enhancement: Apply filters such as grayscale, black & white, and auto-enhancement to improve scan quality.
 
-https://amzn.to/2MNtVKZ
+Multi-Page Scanning: Scan multiple pages into a single document.
 
-Budget Webcam:
+Export Options: Save scans as PDF, JPEG, or share via email and cloud services.
 
-https://amzn.to/2ZP47Ug
+Search & Organize: Use text search functionality to find documents quickly.
 
-Links:
-
-OpenCV Python Complete Course:
-
-https://www.youtube.com/watch?v=CJXIjApHYVs&list=PLMoSUbG1Q_r_sc0x7ndCsqdIkL7dwrmNF
-
-How to install Opencv in Python: https://youtu.be/CJXIjApHYVs
-
-Joining Images: https://youtu.be/Wv0PSs0dmVI
-
-Color Detection: https://youtu.be/Tj4zEX_pdUg
-
-Contours: https://youtu.be/Fchzk1lDt7Q
-
-Warp Prespective: https://youtu.be/Tm_7fGolVGE
+Secure Storage: Keep sensitive documents safe with password protection.
